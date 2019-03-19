@@ -1,0 +1,12 @@
+body, html {
+ background-image: url("foti.jpg");
+ background-attachment: fixed;
+}
+
+h3 {
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+   }
+
